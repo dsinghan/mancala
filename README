@@ -1,19 +1,18 @@
 NAME: Dhruv Singhania
 EMAIL: singhania_dhruv@yahoo.com
-ID: 105125631
 
-CS 32 Project 3
+Mancala
 
 Description:
-Code for a mancala game with a custom GUI and game structure from scratch in C++. 
-I created a computer AI that uses trees and algorithms to predict moves and make intelligent plays.
+        Code for a mancala game with a custom GUI and game structure from scratch in C++. 
+        I created a computer AI that uses trees and algorithms to predict moves and make intelligent plays.
 
 Included files:
-  Board.h - c++ source header file declaring Board class and its functions
-  Game.h - c++ source header file declaring Game class and its functions
-  Player.h - c++ source header file declaring Player class and its functions
-  Side.h - c++ source header file declaring and initializing Side class and its functions
-  Board.cpp - c++ source file intializing Board functions
-  Game.cpp - c++ source file intializing Game functions
-  Player.cpp - c++ source file intializing Player functions
-  main.cpp - c++ source driver file to run code and test functions
+        Board.h - c++ source header file declaring Board class and its functions
+        Game.h - c++ source header file declaring Game class and its functions
+        Player.h - c++ source header file declaring Player class and its functions
+        Side.h - c++ source header file declaring and initializing Side class and its functions
+        Board.cpp - c++ source file intializing Board functions
+        Game.cpp - c++ source file intializing Game functions
+        Player.cpp - c++ source file intializing Player functions
+        Main.cpp - c++ source driver file to run code and test functions
